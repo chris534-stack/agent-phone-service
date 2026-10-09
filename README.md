@@ -1,2 +1,3 @@
 # agent-phone-service
-Agent-independent phone-calling service for information gathering. MCP and HTTP API with provider adapters.
+
+Repository created for the first working version of an agent-independent phone-calling service.
